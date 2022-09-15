@@ -8,8 +8,9 @@ if (age <= 100 && age > 10)
     var bankInfo = Console.ReadLine();
     if (bankInfo == "Yes" || bankInfo == "yes")
     {
+        
         Console.WriteLine("You dont't have a choice lol! Thanks for giving me your money!");
-        Console.Clear();
+        
         Console.WriteLine("Now, will you give me your computer info?");
         var cpuInfo = Console.ReadLine();
         if (cpuInfo == "yes" || cpuInfo == "Yes")
