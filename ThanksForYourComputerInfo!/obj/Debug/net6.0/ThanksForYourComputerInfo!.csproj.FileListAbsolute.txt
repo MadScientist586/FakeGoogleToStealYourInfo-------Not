@@ -1,0 +1,15 @@
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\bin\Debug\net6.0\ThanksForYourComputerInfo!.exe
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\bin\Debug\net6.0\ThanksForYourComputerInfo!.deps.json
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\bin\Debug\net6.0\ThanksForYourComputerInfo!.runtimeconfig.json
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\bin\Debug\net6.0\ThanksForYourComputerInfo!.dll
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\bin\Debug\net6.0\ThanksForYourComputerInfo!.pdb
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.csproj.AssemblyReference.cache
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.AssemblyInfoInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.AssemblyInfo.cs
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.csproj.CoreCompileInputs.cache
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.dll
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\refint\ThanksForYourComputerInfo!.dll
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.pdb
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ThanksForYourComputerInfo!.genruntimeconfig.cache
+C:\Users\Justin Martin\Desktop\Repos\ThanksForYourComputerInfo!\ThanksForYourComputerInfo!\obj\Debug\net6.0\ref\ThanksForYourComputerInfo!.dll
