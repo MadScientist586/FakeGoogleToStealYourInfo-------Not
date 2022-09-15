@@ -5,7 +5,17 @@ var age = Convert.ToInt32(Console.ReadLine());
 if (age <= 100 && age > 10)
 {
     Console.WriteLine($"{age} is a good age to be!");
-    
+    Console.WriteLine("What is your favorite color?");
+    var favColor = Console.ReadLine();
+    Console.WriteLine($"{favColor} is a good color!");
+    Console.WriteLine("What is your dream car?");
+    var dreamCar = Console.ReadLine();  
+    Console.WriteLine($"{dreamCar} is a nice car!");
+    Console.WriteLine("Last question. What is your favorite brand of computer?");
+    var favBrand = Console.ReadLine();
+    Console.WriteLine($"{favBrand} is the best computer brand!");
+    Console.WriteLine("Press enter to continue...");
+    var enter = Console.ReadLine();
     Console.WriteLine("Computer error... Would you like to resolve the error?");
     var resolveError = Console.ReadLine();
     Console.WriteLine("It doesn't matter what you put, this has to be resolved.");
