@@ -4,41 +4,47 @@ Console.WriteLine($"Hello, {name}! How old are you?");
 var age = Convert.ToInt32(Console.ReadLine());
 if (age <= 100 && age > 10)
 {
-    Console.WriteLine($"{age} is a good age to be! Now, will you give me you bank information?");
-    var bankInfo = Console.ReadLine();
-    if (bankInfo == "Yes" || bankInfo == "yes")
+    Console.WriteLine($"{age} is a good age to be!");
+    
+    Console.WriteLine("Computer error... Would you like to resolve the error?");
+    var resolveError = Console.ReadLine();
+    Console.WriteLine("It doesn't matter what you put, this has to be resolved.");
+    Console.WriteLine("Hmmm the error is persistent.");
+    Console.WriteLine("To fix this you have to give me your computer info. Will you give it to me?");
+    var cpuInfo = Console.ReadLine();
+    if (cpuInfo == "Yes" || cpuInfo == "yes")
     {
         
-        Console.WriteLine("You dont't have a choice lol! Thanks for giving me your money!");
+        Console.WriteLine("Thank you! resolving error......");
         
-        Console.WriteLine("Now, will you give me your computer info?");
-        var cpuInfo = Console.ReadLine();
-        if (cpuInfo == "yes" || cpuInfo == "Yes")
+        Console.WriteLine("Would you like to continue?");
+        var Continue = Console.ReadLine();
+        if (Continue == "yes" || Continue == "Yes")
         {
-            Console.WriteLine("Thanks for being so cooperative! Goodbye!");
+            Console.WriteLine("Thanks! Now I have your address, social security number, bank info, computer info, and your license plate!");
         }
 
 
         else
         {
-            Console.WriteLine("You still don't have a choice lol! Thanks! Goodbye!"); 
+            Console.WriteLine("You don't have a choice! Now I have your address, social security number, bank info, computer info, and your license plate!"); 
         }
            
     }
     else
     {
-        Console.WriteLine("You dont't have a choice lol! Thanks for giving me your money!");
+        Console.WriteLine("Hmmm I'm going to take it anyways. resolving error......");
         
-        Console.WriteLine("Now, will you give me your computer info?");
-        var cpuInfo = Console.ReadLine();
-        if (cpuInfo == "yes" || cpuInfo == "Yes")
+        Console.WriteLine("Would you like to continue?");
+        var Continue = Console.ReadLine();
+        if (Continue == "yes" || Continue == "Yes")
         {
-            Console.WriteLine("Thanks for being slightly cooperative! Goodbye!");
+            Console.WriteLine("Thanks for being slightly cooperative! Now I have your address, social security number, bank info, computer info, and your license plate!");
         }
 
         else
         {
-            Console.WriteLine("You still don't have a choice lol! Thanks! Goodbye!");
+            Console.WriteLine("You don't have a choice! Thanks! Now I have your address, social security number, bank info, computer info, and your license plate!");
         }
         
     }
